@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Raghuteja Ubuntu
+_Comment=RaghutejaUbuntu application
+Categories=GNOME;Utility;
+Exec=raghuteja-ubuntu
+Icon=raghuteja-ubuntu
+Terminal=false
+Type=Application
